@@ -1,2 +1,2 @@
 <?php 
-echo "newfilepublic";
+echo "newfilepublic 2";
